@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="NBA/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/diarr/Downloads/mongo-java-driver-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diarr/Downloads/twitter4j-core/twitter4j-core-4.0.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diarr/Downloads/twitter4j-stream/twitter4j-stream-4.0.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diarr/Downloads/lib/twitter4j-async-4.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diarr/Downloads/lib/twitter4j-core-4.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diarr/Downloads/lib/twitter4j-examples-4.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diarr/Downloads/lib/twitter4j-stream-4.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diarr/Downloads/twitter4j-async/twitter4j-async-4.0.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diarr/Downloads/twitter4j-examples/twitter4j-examples-4.0.7-javadoc.jar"/>
+	<classpathentry kind="output" path="NBA/bin"/>
+</classpath>
